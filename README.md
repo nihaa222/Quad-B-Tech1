@@ -13,7 +13,7 @@ Clone the Repository:
 Open your terminal or command prompt and navigate to the desired directory. Then, clone this repository using the following command:
 
 In termainal:
-git clone https://github.com/nihaa222/Quad-B-Tech
+git clone https://github.com/nihaa222/Quad-B-Tech1
 
 Install Dependencies:
 
